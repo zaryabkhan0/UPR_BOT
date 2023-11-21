@@ -1,4 +1,4 @@
-# UPinversity_of_Poonch chatbot
+# University_of_Poonch chatbot
 Introduction
 The purpose of this project is to develop a chatbot that can assist prospective university students with their admission process by providing them with relevant information and assistance in a convenient and accessible manner. The chatbot is designed to streamline the admission process and make it easier for students to obtain the information they need to make informed decisions about their education.
 
